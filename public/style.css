@@ -1,0 +1,49 @@
+@charset "utf-8";
+* {
+	margin:0px;
+	padding:0px;
+}
+
+html, body {
+	background-color:#000;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:30px;
+	font-weight:bold;
+	color:#FFF;
+	height:100%;
+	padding:3px;
+}
+
+a {
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:underline;
+}
+
+h1 {
+	font-size:30px;
+	margin-bottom:15px;
+}
+
+.indexlink:hover {
+	text-decoration:underline;
+}
+
+#text {
+	display:block;
+}
+	#text a {
+		color:#FFF;
+	}
+	#text p {
+		font-family:"Times New Roman", Times, serif;
+		font-size:16px;
+		margin-bottom:15px;
+	}
+
+/* ########################## */
+
+.insta1 .insta2 .insta3 .insta4 .insta5 .insta6 .insta7 .insta8 .insta9 .insta10 .insta11 .insta12 .insta12 .insat13 .insta14 .insta15 .insta16 .insta17 .twit1 .twit2 .twit3 .twit4 .twit5 .twit6 {
+  position: absolute;
+}
